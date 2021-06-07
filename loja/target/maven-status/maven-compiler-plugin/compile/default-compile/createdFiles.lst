@@ -1,0 +1,10 @@
+com\floricultura\loja\dto\CompraDTO.class
+com\floricultura\loja\dto\InfoPedidoDTO.class
+com\floricultura\loja\controller\CompraController.class
+com\floricultura\loja\dto\ItemCompraDTO.class
+com\floricultura\loja\service\CompraService.class
+com\floricultura\loja\dto\InfoFornecedorDTO.class
+com\floricultura\loja\model\Compra.class
+com\floricultura\loja\client\FornecedorClient.class
+com\floricultura\loja\LojaApplication.class
+com\floricultura\loja\dto\EnderecoDTO.class
